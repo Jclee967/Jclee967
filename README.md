@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicalee936-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalee936@gmail.com)](mailto:jessicalee936@gmail.com)
 
 <h3>Welcome to my page!</h3>
-<p>I'm a self-taught passionate full stack developer from Hong Kong, currently living in Toronto, CA. Expected to graduate from the Applied A.I. Solutions Development Program in Fall 2023. Thanks for visiting!</p>
+<p>I'm a passionate full stack developer currently living in Toronto, CA. Expected to graduate from the Applied A.I. Solutions Development Program in Fall 2023. Thanks for visiting!</p>
 
 <h2>Code with:</h2>
 <p>
