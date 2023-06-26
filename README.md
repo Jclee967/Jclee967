@@ -3,14 +3,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-jessicalee936-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalee936@gmail.com)](mailto:jessicalee936@gmail.com)
 
 <h3>Welcome to my page!</h3>
-<p>I'm a full stack developer currently living in Toronto, CA. Expected to graduate from the Applied A.I. Solutions Development Program in Fall 2023.</p>
+<p>I'm a self-taught passionate full stack developer from Hong Kong, currently living in Toronto, CA. Expected to graduate from the Applied A.I. Solutions Development Program in Fall 2023. Thanks for visiting!</p>
 
 <h2>Code with:</h2>
 <p>
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img alt="html5" src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
