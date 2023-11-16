@@ -1,9 +1,9 @@
 # Hi there I'm Jessica👋
-[![Linkedin Badge](https://img.shields.io/badge/-JessicaLee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hei-yuet-lee-2729b4181/)](https://www.linkedin.com/in/hei-yuet-lee-2729b4181/)
+[![Linkedin Badge](https://img.shields.io/badge/-JessicaLee-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hei-yuet-lee/)](https://www.linkedin.com/in/hei-yuet-lee/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalee936-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalee936@gmail.com)](mailto:jessicalee936@gmail.com)
 
 <h3>Welcome to my page!</h3>
-<p>I'm a passionate full stack developer currently living in Toronto, CA. Graduate from the Applied A.I. Solutions Development Program in Fall 2023. Thanks for visiting!</p>
+<p>I'm a passionate full stack developer currently living in Toronto, CA. Graduated from the Applied A.I. Solutions Development Program in Fall 2023. Thanks for visiting!</p>
 
 <h2>Code with:</h2>
 <p>
@@ -16,6 +16,7 @@
 <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
